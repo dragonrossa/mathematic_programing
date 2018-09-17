@@ -1,0 +1,8 @@
+﻿  test1.cpp
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rosana\desktop\vsc\test1\test1\test1.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  test1.vcxproj -> C:\Users\Rosana\Desktop\vsc\test1\Debug\test1.exe
